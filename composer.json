@@ -14,7 +14,7 @@
     "require": {
         "php": "^7.1",
 
-        "sylius/sylius": "^1.0@beta",
+        "sylius/sylius": "master",
         "symfony/symfony": "^3.2"
     },
     "require-dev": {
